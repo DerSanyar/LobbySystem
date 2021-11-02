@@ -1,0 +1,3 @@
+general config creating at the version 1.0
+updater (hint that i released a new version)
+source code free
